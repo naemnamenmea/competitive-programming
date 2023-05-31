@@ -1,0 +1,5 @@
+1) min/max(Sum) ??
+
+2) MAX ?? // MAX = 1e6/t ??
+
+3) c >= -min(s[i])

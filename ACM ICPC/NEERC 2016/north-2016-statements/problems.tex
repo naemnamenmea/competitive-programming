@@ -1,0 +1,33 @@
+\documentclass[11pt,a4paper,oneside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{olymp}
+\usepackage{amsmath,graphicx}
+\usepackage{csquotes}
+\usepackage{bnf}
+
+\newcommand{\chr}[1]{\mbox{`\texttt{#1}'}}
+\newcommand{\txt}[1]{\mbox{``\texttt{#1}''}}
+\newcommand{\TODO}[1]{\par{\Huge{}TODO: #1}}
+
+\input contest.texi
+\newcommand{\timeLimit}{2 seconds}
+\renewcommand{\defaultmemorylimit}{256 megabytes}
+\renewcommand{\figurename}{}
+
+\begin{document}
+
+\input problems/anniversary.tex
+\input problems/boysgirls.tex
+\input problems/codecoder.tex
+\input problems/digital.tex
+\input problems/easy.tex
+\input problems/folding.tex
+\input problems/gangsters.tex
+\input problems/hard.tex
+\input problems/integral.tex
+\input problems/java2016.tex
+\input problems/king.tex
+
+\end{document}

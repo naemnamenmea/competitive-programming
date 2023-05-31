@@ -1,0 +1,33 @@
+"Павел Гуржий" "Pavel Gurjiy"
+"Данил Королев" "Danil Korolev"
+"Иля Ермачков" "Ilya Ermachkov"
+
+"Николай Марков" "Nikolay Markov"
+"Еугене Петрукович" "Eugene Petrukovich"
+"Дмитрий Полонский" "Dmitriy Polonskiy"
+
+"Нисколаи Иванча" "Nickolai Ivancha" "https://vk.com/adressyzhezanyat"
+"Александр Дудко" "Aleksandr Dudko" "https://vk.com/simfy"
+"Максим Травинцев" "Maxim Travintsev" "https://vk.com/iamscrew"
+
+"Елвина Йакубова" "Elvina Yakubova"
+"Екатерина Козлова" "Ekaterina Kozlova"
+"Сергей Гуляев" "Sergey Gulyaev" "https://vk.com/tillzas"
+
+"Данил Никулин" "Danil Nikulin" "https://vk.com/id134915620"
+"Валерий Козенко" "Valeriy Kozenko"
+"Андрей Кураков" "Andrey Kurakow"
+
+"Константин Скопинскй" "Konstantin Skopinsky"
+"Александр Пивовар" "Aleksandr Pivovar" "https://vk.com/etozhepivka"
+"Владислав Евдокимов" "Vladislav Evdokimov"
+
+"Аметхан Каялиев" "Ametkhan Kayaliev" "https://vk.com/ametkayaliev"
+"Владимир Пастернак" "Vladimir Pasternak" "https://vk.com/thekoligoroff"
+"Александр Схумский" "Alexandr Shumskiy"
+
+"Руслан Курочкин" "Ruslan Kurochkin" "https://vk.com/t_tangerine"
+"Иван Микерин" "Ivan Mikerin"
+"Владислав Новиков" "Vladislav Novikov" "https://vk.com/mb1te"
+
+

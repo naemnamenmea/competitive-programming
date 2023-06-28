@@ -1,4 +1,0 @@
-\renewcommand{\contestname}{
-ACM ICPC 2016--2017, NEERC, Northern Subregional Contest\\
-St Petersburg, October 22, 2016
-}

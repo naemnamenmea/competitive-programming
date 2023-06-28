@@ -1,1 +1,0 @@
-@call %~dp0..\p\p\p.cmd %*
